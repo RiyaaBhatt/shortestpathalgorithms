@@ -23,13 +23,13 @@ Enter 1 for Dijkstra's Algorithm.<br>
 Enter 2 for Floyd-Warshall Algorithm.<br>
 Enter 3 to exit the program.<be>
 <br>
-Dijkstra's Algorithm
+Dijkstra's Algorithm<br>
 Dijkstra's Algorithm is used to find the shortest path from a source node to all other nodes in a weighted graph. You can input a graph and a source node to find the shortest paths using this algorithm.
 <br>
-Floyd-Warshall Algorithm
+Floyd-Warshall Algorithm<br>
 The Floyd-Warshall Algorithm is used to find the shortest paths between all pairs of nodes in a weighted graph. It computes the shortest distances between every pair of vertices in the graph.
 <br>
-Graph Visualization
+Graph Visualization<br>
 The code also includes a graph visualization function using NetworkX and Matplotlib. It can visualize the input graph and highlight the shortest path if provided.
 
 Feel free to customize the README further to include more details or instructions specific to your project or use case.
