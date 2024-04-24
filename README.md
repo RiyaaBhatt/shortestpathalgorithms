@@ -18,10 +18,10 @@ Usage<br>
 3.Run the main Python script<br>
 
 
-Choose an algorithm from the menu:<br>
-Enter 1 for Dijkstra's Algorithm.<br>
-Enter 2 for Floyd-Warshall Algorithm.<br>
-Enter 3 to exit the program.<be>
+Choose an algorithm from the menu:<br><br>
+Enter 1 for Dijkstra's Algorithm.<br><br>
+Enter 2 for Floyd-Warshall Algorithm.<be><br>
+Enter 3 to exit the program.<br><br>
 <br>
 Dijkstra's Algorithm<br>
 Dijkstra's Algorithm is used to find the shortest path from a source node to all other nodes in a weighted graph. You can input a graph and a source node to find the shortest paths using this algorithm.
